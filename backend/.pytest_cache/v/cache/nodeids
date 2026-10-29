@@ -1,0 +1,13 @@
+[
+  "tests/test_chat.py::test_chat_message_and_isolation",
+  "tests/test_health.py::test_health_endpoint",
+  "tests/test_media.py::test_audio_transcription_with_language",
+  "tests/test_media.py::test_chat_media_intent_detection",
+  "tests/test_media.py::test_image_generation_endpoint",
+  "tests/test_media.py::test_video_generation_endpoint",
+  "tests/test_rag.py::test_rag_upload_and_retrieval",
+  "tests/test_safety.py::test_crisis_guardrail",
+  "tests/test_safety.py::test_emotional_support_mode",
+  "tests/test_search.py::test_search_endpoint",
+  "tests/test_workspace.py::test_workspace_create_edit_export"
+]
